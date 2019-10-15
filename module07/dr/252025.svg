@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" style="enable-background:new 0 0 36 36;" viewBox="0 0 36 36" y="0px" x="0px" id="S_Info_18_N_2x" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
+	.st0{fill:#39B54A;}
+</style><path data-cppathid="10000" d="M18,2C9.16,2,2,9.16,2,18s7.16,16,16,16s16-7.16,16-16S26.84,2,18,2z M17.7,6.3c1.5-0.08,2.78,1.07,2.86,2.57  c0,0.09,0.01,0.17,0,0.26c0.11,1.47-0.98,2.75-2.45,2.86c-0.14,0.01-0.28,0.01-0.42,0c-1.49,0.09-2.77-1.04-2.86-2.54  c-0.01-0.11-0.01-0.22,0-0.33c-0.06-1.5,1.11-2.76,2.6-2.82C17.53,6.29,17.61,6.3,17.7,6.3z M22,27c0,0.55-0.45,1-1,1h-6  c-0.55,0-1-0.45-1-1v-2c0-0.55,0.45-1,1-1h1v-6h-1c-0.55,0-1-0.45-1-1v-2c0-0.55,0.45-1,1-1h4c0.55,0,1,0.45,1,1v9h1  c0.55,0,1,0.45,1,1V27z" class="st0"/></svg>
