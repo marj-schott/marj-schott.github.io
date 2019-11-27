@@ -1,0 +1,542 @@
+<XMLBit>
+    <term>
+        <label>A/E</label>
+        <def>Architectural/engineering</def>
+    </term>
+    <term>
+        <label>AIA</label>
+        <def>American Institute of Architects</def>
+    </term>
+    <term>
+        <label>ASE</label>
+        <def>Annual sunlight exposure</def>
+    </term>
+    <term>
+        <label>ASTM</label>
+        <def>American Society for Testing and Materials</def>
+    </term>
+    <term>
+        <label>ANSI</label>
+        <def>American National Standards Institute</def>
+    </term>
+    <term>
+        <label>AWEF</label>
+        <def>Annual walk-in energy factor</def>
+    </term>
+    <term>
+        <label>BOD</label>
+        <def>Basis of design</def>
+    </term>
+    <term>
+        <label>BP</label>
+        <def>Advanced Energy Design Guide code for Building and Site Planning</def>
+    </term>
+    <term>
+        <label>Btu</label>
+        <def>British thermal unit</def>
+    </term>
+    <term>
+        <label>CD</label>
+        <def>Construction documents</def>
+    </term>
+    <term>
+        <label>CHW</label>
+        <def>Chilled water</def>
+    </term>
+    <term>
+        <label>c.i.</label>
+        <def>Continuous insulation</def>
+    </term>
+    <term>
+        <label>Cx</label>
+        <def>Commissioning</def>
+    </term>
+    <term>
+        <label>CxA</label>
+        <def>Commissioning authority</def>
+    </term>
+    <term>
+        <label>cfm</label>
+        <def>Cubic feet per minute</def>
+    </term>
+    <term>
+        <label>COP</label>
+        <def>Coefficient of performance, dimensionless</def>
+    </term>
+    <term>
+        <label>CRI</label>
+        <def>Color rendering index</def>
+    </term>
+    <term>
+        <label>CRRC</label>
+        <def>Cool Roof Rating Council</def>
+    </term>
+    <term>
+        <label>db</label>
+        <def>Dry bulb, °F</def>
+    </term>
+    <term>
+        <label>DL</label>
+        <def>Advanced Energy Design Guide code for Daylighting</def>
+    </term>
+    <term>
+        <label>DOAS</label>
+        <def>Dedicated outdoor air system</def>
+    </term>
+    <term>
+        <label>DOE</label>
+        <def>Department of Energy (United States)</def>
+    </term>
+    <term>
+        <label>DX</label>
+        <def>Direct expansion</def>
+    </term>
+    <term>
+        <label>EA</label>
+        <def>Exhaust air</def>
+    </term>
+
+    <term>
+        <label>EC</label>
+        <def>Electronically commutated</def>
+    </term>
+
+    <term>
+        <label>ECM</label>
+        <def>Electronically commutated motor</def>
+    </term>
+    <term>
+        <label>EEV</label>
+        <def>Electronic expansion valves</def>
+    </term>
+    <term>
+        <label>EER</label>
+        <def>Energy efficiency ratio, Btu/W·h</def>
+    </term>
+    <term>
+        <label>EF</label>
+        <def>Energy factor</def>
+    </term>
+    <term>
+        <label>EIA</label>
+        <def>Energy Information Agency</def>
+    </term>
+    <term>
+        <label>Et</label>
+        <def>Efficiency, thermal</def>
+    </term>
+    <term>
+        <label>ETOP</label>
+        <def>Extended transition to operations</def>
+    </term>
+    <term>
+        <label>EL</label>
+        <def>Advanced Energy Design Guide code for Electric Lighting</def>
+    </term>
+    <term>
+        <label>EN</label>
+        <def>Advanced Energy Design Guide code for Envelope</def>
+    </term>
+    <term>
+        <label>Energy use intensity or EUI</label>
+        <def>The building’s annual energy consumption, divided by the gross area of the building. The commonly used EUI metric in the United States is thousand British Thermal Units per square foot per year (kBTU/ft2/yr). </def>
+    </term>
+    <term>
+        <label>F</label>
+        <def>Slab edge heat loss coefficient per foot of perimeter, Btu&#8725;h&#8729;ft·&#8457;</def>
+    </term>
+    <term>
+        <label>FC</label>
+        <def>Filled cavity</def>
+    </term>
+    <term>
+        <label>FPT</label>
+        <def>Functional performance testing</def>
+    </term>
+    <term>
+        <label>Ground-source heat pump or GSHP</label>
+        <def>A geothermal heat pump or ground source heat pump (GSHP) is a central heating and/or cooling system that transfers heat to or from the ground. It uses the earth all the time, without any intermittency, as a heat source (in the winter) or a heat sink (in the summer). This design takes advantage of the moderate temperatures in the ground to boost efficiency and reduce the operational costs of heating and cooling systems, and may be combined with solar heating to form a geosolar system with even greater efficiency. They are also known by other names, including geoexchange, earth-coupled, earth energy systems. The engineering and scientific communities prefer the terms "geoexchange" or "ground source heat pumps" to avoid confusion with traditional geothermal power, which uses a high temperature heat source to generate electricity. Ground source heat pumps harvest heat absorbed at the Earth's surface from solar energy. The temperature in the ground below 6 metres (20 ft) is roughly equal to the mean annual air temperature at that latitude at the surface. Depending on latitude, the temperature beneath the upper 6 metres (20 ft) of Earth's surface maintains a nearly constant temperature between 10 and 16 °C (50 and 60 °F), if the temperature is undisturbed by the presence of a heat pump. Like a refrigerator or air conditioner, these systems use a heat pump to force the transfer of heat from the ground. Heat pumps can transfer heat from a cool space to a warm space, against the natural direction of flow, or they can enhance the natural flow of heat from a warm area to a cool one. The core of the heat pump is a loop of refrigerant pumped through a vapor-compression refrigeration cycle that moves heat. Air-source heat pumps are typically more efficient at heating than pure electric heaters, even when extracting heat from cold winter air, although efficiencies begin dropping significantly as outside air temperatures drop below 5 °C (41 °F). A ground source heat pump exchanges heat with the ground. This is much more energy-efficient because underground temperatures are more stable than air temperatures through the year. Seasonal variations drop off with depth and disappear below 7 metres (23 ft) to 12 metres (39 ft) due to thermal inertia. Like a cave, the shallow ground temperature is warmer than the air above during the winter and cooler than the air in the summer. A ground source heat pump extracts ground heat in the winter (for heating) and transfers heat back into the ground in the summer (for cooling). Some systems are designed to operate in one mode only, heating or cooling, depending on climate. Geothermal pump systems reach fairly high coefficient of performance (CoP), 3 to 6, on the coldest of winter nights, compared to 1.75–2.5 for air-source heat pumps on cool days. Ground source heat pumps (GSHPs) are among the most energy-efficient technologies for providing HVAC and water heating. Setup costs are higher than for conventional systems, but the difference is usually returned in energy savings in 3 to 10 years, and even shorter lengths of time with federal, state and utility tax credits and incentives. Geothermal heat pump systems are reasonably warranted by manufacturers, and their working life is estimated at 25 years for inside components and 50+ years for the ground loop. As of 2004, there are over one million units installed worldwide providing 12 GW of thermal capacity, with an annual growth rate of 10%.(source: https://openei.org/wiki/Definition:Ground_Source_Heat_Pumps)</def>
+    </term>
+    <term>
+        <label>HSPF</label>
+        <def>Heating season performance factor, Btu&#8725;W·h</def>
+    </term>
+    <term>
+        <label>HV</label>
+        <def>Advanced Energy Design Guide code for HVAC Systems and Equipment</def>
+    </term>
+    <term>
+        <label>HVAC</label>
+        <def>Heating, ventilating, and air-conditioning</def>
+    </term>
+    <term>
+        <label>IES</label>
+        <def>Illuminating Engineering Society</def>
+    </term>
+    <term>
+        <label>IEER</label>
+        <def>Integrated energy efficiency ratio</def>
+    </term>
+    <term>
+        <label>IPLV</label>
+        <def>Integrated part load value</def>
+    </term>
+    <term>
+        <label>kBtu/h</label>
+        <def>Thousands of British thermal units per hour</def>
+    </term>
+    <term>
+        <label>KE</label>
+        <def>Advanced Energy Design Guide code for Kitchen Equipment</def>
+    </term>
+    <term>
+        <label>kW</label>
+        <def>Kilowatt</def>
+    </term>
+    <term>
+        <label>LBNL</label>
+        <def>Lawrence Berkeley National Laboratory</def>
+    </term>
+    <term>
+        <label>LED</label>
+        <def>Light emitting diode</def>
+    </term>
+    <term>
+        <label>Lighting power density or LPD</label>
+        <def>The maximum lighting power per unit area based on space function. Watts per square foot in a defined area.(source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+    <term>
+        <label>Ls</label>
+        <def>Liner systems</def>
+    </term>
+    <term>
+        <label>NEMA</label>
+        <def>National Electrical Manufacturers Association</def>
+    </term>
+    <term>
+        <label>NFRC</label>
+        <def>National Fenestration Rating Council</def>
+    </term>
+    <term>
+        <label>NREL</label>
+        <def>National Energy Renewable Laboratory</def>
+    </term>
+    <term>
+        <label>NZEB</label>
+        <def>Net zero energy buildings</def>
+    </term>
+    <term>
+        <label>OA</label>
+        <def>Outdoor air</def>
+    </term>
+
+    <term>
+        <label>OPR</label>
+        <def>Owner’s project requirements</def>
+    </term>
+    <term>
+        <label>PF</label>
+        <def>Projection factor</def>
+    </term>
+    <term>
+        <label>PL</label>
+        <def>Advanced Energy Design Guide code for Plug Loads</def>
+    </term>
+    <term>
+        <label>ppm</label>
+        <def>Part per million</def>
+    </term>
+    <term>
+        <label>psf</label>
+        <def>Pounds per square foot</def>
+    </term>
+    <term>
+        <label>PV</label>
+        <def>Photovoltaic</def>
+    </term>
+    <term>
+        <label>QA</label>
+        <def>Quality assurance</def>
+    </term>
+    <term>
+        <label>R</label>
+        <def>Thermal resistance, h&#8729;ft<sup>2</sup>&#8729;&#8457;&#8725;Btu</def>
+    </term>
+    <term>
+        <label>RE</label>
+        <def>Advanced Energy Design Guide code for Renewable Energy</def>
+    </term>
+    <term>
+        <label>SCT</label>
+        <def>Saturated condensing temperature</def>
+    </term>
+    <term>
+        <label>sDA</label>
+        <def>Spatial daylight autonomy</def>
+    </term>
+    <term>
+        <label>SEER</label>
+        <def>Seasonal energy efficiency ratio, Btu&sol;W&#8729;h</def>
+    </term>
+    <term>
+        <label>SHGC</label>
+        <def>Solar heat gain coefficient</def>
+    </term>
+    <term>
+        <label>SP</label>
+        <def>Special project</def>
+    </term>
+    <term>
+        <label>SRI</label>
+        <def>Solar reflectance index</def>
+    </term>
+    <term>
+        <label>SWH</label>
+        <def>Service water heating</def>
+    </term>
+    <term>
+        <label>TAB</label>
+        <def>Test and balance</def>
+    </term>
+    <term>
+        <label>U</label>
+        <def>Thermal transmittance, Btu/h&#8729;ft2&#8729;&#8457;</def>
+    </term>
+    <term>
+        <label>USGBC</label>
+        <def>U.S. Green Building Council</def>
+    </term>
+    <term>
+        <label>VSD</label>
+        <def>Variable-speed drive</def>
+    </term>
+    <term>
+        <label>VT</label>
+        <def>Visible transmittance, dimensionless</def>
+    </term>
+    <term>
+        <label>W</label>
+        <def>Watts</def>
+    </term>
+    <term>
+        <label>wb</label>
+        <def>Wet bulb</def>
+    </term>
+    <term>
+        <label>w.c.</label>
+        <def>Water column</def>
+    </term>
+    <term>
+        <label>WH</label>
+        <def>Advanced Energy Design Guide code for Service Water Heating</def>
+    </term>
+    <term>
+        <label>WSHP</label>
+        <def>Water-source heat pump</def>
+    </term>
+    <term>
+        <label>ZE</label>
+        <def>Zero energy</def>
+    </term>
+    <term>
+        <label>ZES</label>
+        <def>Zero energy school</def>
+    </term>
+    <term>
+        <label>Zero energy building or ZEB</label>
+        <def>An energy-efficient building where, on a source energy basis, the actual annual delivered energy is less than or equal to the on-site renewable exported energy.An energy-efficient building where, on a source energy basis, the actual annual delivered energy is less than or equal to the on-site renewable exported energy.</def>
+    </term>
+
+    <term>
+        <label>Site energy</label>
+        <def>The number of units of energy consumed on the site and typically metered at the property line or the utility meter.</def>
+    </term>
+    <term>
+        <label>Source energy</label>
+        <def>Refers to the total amount of energy required to produce and transmit a given amount of energy of each fuel type to the site.</def>
+    </term>
+    <term>
+        <label>Site energy</label>
+        <def>The number of units of energy consumed on the site and typically metered at the property line or the utility meter.</def>
+    </term>
+    <term>
+        <label>Microclimate</label>
+        <def>Conditions such as temperature, humidity, and motion of air within an enclosure or limited outdoor area.(source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+    <term>
+        <label>Building Performance Simulation</label>
+        <def>Encompasses the numerous forms of computational simulation that may be conducted during the design process. "Energy modeling" is often referenced among designers and remains an accurate description of the simulation process used to study the energy performance of a building.In addition to energy modeling, high-performance buildings typically require other analyses to optimize the design. Some of the more common simulations cover lighting, daylighting, and natural ventilation strategies.</def>
+    </term>
+    <term>
+        <label>Baseline Model</label>
+        <def>
+            Typically used for comparison purposes, baseline models represent a theoretical benchmark against which the proposed design can be studied. It can be used to calculate percent energy savings from “typical” design. As zero energy defines an absolute energy goal, baseline models are not necessary unless energy savings is needed for some other reason. It can also serve as a starting point for analysis, as the code-compliant building is the worst energy performing building that can be legally constructed. </def>
+    </term>
+
+    <term>
+        <label>Design Model</label>
+        <def>
+            Design models are intended to weigh trade-offs and evaluate strategies and features. These strategies are tested to determine the impact and progress toward meeting the goal. Ideally, this model is started at conceptual design and informs the form of the building. This model may not represent the final design, as it may need to satisfy rules associated with showing code compliance.</def>
+    </term>
+
+    <term>
+        <label>Predictive Model</label>
+        <def>
+            While most modelers will try to satisfy the project needs with only the design models, the standards and codes to which they must adhere may require that they simulate aspects of the building that are not necessarily reflective of the actual project design. Predictive models need to meet the zero energy design goals, including those for renewable generation. These models also include passive strategies that are used to eliminate or reduce mechanical cooling requirements, or when the design team plans to use plug load reduction by selecting efficient equipment. The predictive model should match the final set of plans used for construction.</def>
+    </term>
+
+    <term>
+        <label>Calibrated Model</label>
+        <def>
+            The calibrated model is created to reflect the most accurate set of conditions following construction and during the occupancy of the building. This should reflect as-installed equipment, as-tested performance information (such as enclosure leakage), and include actual weather and occupancy information. The calibrated model is ultimately used in the measurement and verification process to tune the building and ensure that it is operating properly. When deviations from actual performance exist, they can be compared against the calibrated model looking for issues to correct.</def>
+    </term>
+
+    <term>
+        <label>Window-to-wall-ratio</label>
+        <def>Gross daylight area plus gross view area divided by gross wall area.</def>
+    </term>
+
+    <term>
+        <label>Infiltration</label>
+        <def>Uncontrolled inward air leakage to conditioned spaces through unintentional openings in ceilings, floors, and walls from unconditioned spaces or the outdoors, caused by the same pressure differences that induce exfiltration (source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+    <term>
+        <label>Design-bid-build</label>
+        <def>Design-bid-build delivery method involves three sequential project phases: the design phase, which requires the services of a designer who will be the “designer of record” for the project; the bid phase, when a contractor is selected; and a build or construction phase, when the project is built by the selected contractor. Because owners are working with separate entities, there may be less opportunity for innovation and optimization through design enhancements integrated with construction technologies and methods. In addition, there may be a constraint to require selection of the lowest bid on this type of procurement, which can create challenges with achieving zero energy. Even if the lowest bidder understands the requirements for zero energy, it may be all but impossible to ensure that all subcontractors and suppliers do so when lowest price is the prime selection criterion. The Discovery Elementary project was a Design-Bid-Build project.</def>
+    </term>
+
+    <term>
+        <label>Design/build</label>
+        <def>Design/build offers increased opportunities for integration of design with cost-effective construction methods, because the design and construction are carried out by the same entity. Here the challenge is to craft the RFP so that the critical project parameters are maintained throughout the course of design and construction. This typically requires hiring a design team to help develop the RFP, which adds overhead and complexity to the process. One of the challenges with the design/build RFP process is striking an appropriate balance between defining the critical parameters in sufficient detail and leaving room for possible innovations by the design/build team.</def>
+    </term>
+
+    <term>
+        <label>Performance-based procurement</label>
+        <def>Performance-based procurement is an alternative to design/build. In this approach, the criteria for the project are performance or goal-based. Rather than actual solutions, bidders are provided with objectives for a project and the success criteria if the objective has been met. The price for the project is fixed and a contractor team (that includes full design services) is selected based on who can achieve the most objectives for the fixed price. Note that the owner must prioritize the objectives and the objectives must be selected in order without skipping any. It does require that the owner have a clear prioritization of project requirements in the RFP to ensure that the specifications and goals were not compromised. The result is that the owner competitively achieves the most prioritized scope for the funding available. The National Renewable Energy Laboratory (NREL) in Golden, CO, used this technique to create a large-scale office building that saved 50% of the energy at no additional cost, including the photovoltaics, which brought the building to zero energy.</def>
+    </term>
+
+    <term>
+        <label>Construction manager at risk</label>
+        <def>Construction manager at risk (CMR) or integrated project delivery approach is where the owner, A/E team, and contractor are brought together as one project team as early as possible in the design process. With CMR, the owner negotiates a guaranteed maximum price (GMP) or maximum allowable construction cost with the CMR. This option offers a means for the contractor to become part of the integrated project delivery team as early as possible in the process, preferably no later than concept design, and as a result is most likely to deliver a building that achieves and sustains zero energy performance. The general contractor or construction manager is able to advocate for feasible solutions and troubleshoot constructability questions, while cost control can be maintained through competitive bids of the subcontracts.</def>
+    </term>
+
+    <term>
+        <label>Lease/lease back delivery method</label>
+        <def>Lease/lease back delivery method engages the builder sooner, reducing the level of public risk while allowing the builder to be chosen based on qualifications and not purely on price.</def>
+    </term>
+    <term>
+        <label>Building Automation System or BAS</label>
+        <def>
+            An energy management system, usually with additional capabilities, relating to the overall operation of the building in which it is installed, such as equipment monitoring, protection of equipment against power failure, and building security.(source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+    <term>
+        <label>Indoor air quality or IAQ</label>
+        <def>Attributes of the respirable air inside a building (indoor climate), including gaseous composition, humidity, temperature, and contaminants.(source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+    <term>
+        <label>Thermal comfort</label>
+        <def>The condition of mind which expresses satisfaction with the surrounding thermal environment and is assessed by subjective evaluation. Thermal comfort is affected by heat conduction, convection, radiation, evaporative heat loss, and relative air motion.(source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+    <term>
+        <label>Building envelope</label>
+        <def>(1) Outer elements of a building, including walls, windows, doors, roofs, and floors, including those in contact with earth. (2) The exterior plus the semi-exterior portions of a building. For the purposes of determining building envelope requirements, the classifications are defined as follows. Building envelope, exterior: the elements of a building that separate conditioned spaces from the exterior. Building envelope, semi-exterior: the elements of a building that separate conditioned space from unconditioned space or that enclose semiheated spaces through which thermal energy may be transferred to or from the exterior, to or from unconditioned spaces, or to or from conditioned spaces.(source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+    <term>
+        <label>Natural ventilation</label>
+        <def>Movement of air into and out of a space primarily through intentionally provided openings (such as windows and doors), through nonpowered ventilators, or by infiltration.(source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+    <term>
+        <label>Fenestration</label>
+        <def>(1) Commonly used to refer to any opening, usually glazed, in a building envelope; windows. Examples include windows, plastic panels, clerestories, skylights, glass doors that are more than one-half glass, and glass block walls. (2) In an external wall of a building, any area that allows light to pass.(source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+    <term>
+        <label>Service Water Heating, Domestic Hot Water</label>
+        <def>(1) Heating water for domestic or commercial purposes other than space heating and process requirements. (2) Potable hot water as distinguished from hot water used for heating.(source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+    <term>
+        <label>Renewable energy</label>
+        <def>Refers to energy that is produced from a fuel source that cannot be exhausted, like sunlight or wind. Coal and natural gas are two fuel sources that have limited supplies and are considered non-renewable.</def>
+    </term>
+
+    <term>
+        <label>Photovoltaic or PV</label>
+        <def>Refers to a type of energy production that uses light to directly generate electricity. PV power is generally produced through the use of sunlight striking a semiconductor material, like the chips used in electronics, to produce a direct current across the junction in the semi-conductor.</def>
+    </term>
+
+    <term>
+        <label>Stand-alone PV</label>
+        <def>Stand-alone PV systems are those PV systems that are not intended to operate in parallel with a utility grid, and typically are used for small applications in conjunction with battery storage. These are usually not applicable for commercial buildings.</def>
+    </term>
+
+    <term>
+        <label>Interactive or grid-tied PV systems</label>
+        <def>Operate in parallel with the alternating current utility grid, whether directly to a utility transformer to feed directly into the grid or connected facility main switchboard or panel board in order to offset power consumption in the facility. </def>
+    </term>
+
+    <term>
+        <label>Wind power</label>
+        <def>The production of electricity from wind and is considered a renewable source. </def>
+    </term>
+
+    <term>
+        <label>Energy storage</label>
+        <def>A device with the capability of storing energy, such as batteries. </def>
+    </term>
+
+    <term>
+        <label>Net metering</label>
+        <def>Where the PV power generated is used to offset power consumption at the facility. Net metering is an accounting system where the excess electricity that is sent to the utility grid is subtracted from the electricity pulled from the utility grid. Check with the local utility provider to for the actual tariff and how the net metering is calculated.</def>
+    </term>
+
+    <term>
+        <label>Sell all metering</label>
+        <def>Metering of the PV system where all of the power generated is sold to the utility and is not used to directly offset facility electricity consumption. Compensation is an important component of the “sell all” system.</def>
+    </term>
+
+    <term>
+        <label>Renewable energy certificates or RECs</label>
+        <def>Also sometimes called renewable electricity certificates, green tags, or tradable renewable certificates. These certificates allow a mechanism to purchase renewable energy to and from the electricity grid and documents that 1 MWh of electricity has been generated by a renewable energy source and fed into a shared electric grid that transports electricity to customers.</def>
+    </term>
+
+    <term>
+        <label>Solar renewable energy certificates</label>
+        <def>Certificates specifically generated by solar energy.</def>
+    </term>
+
+    <term>
+        <label>Ground-mounted</label>
+        <def>Refers to solar energy PV systems that are mounted at grade level, commonly on “racks” that are structurally anchored to the ground. Ground-mounted PV systems may also include parking canopies and building canopies that provide protection from weather elements such as sun and rain.</def>
+    </term>
+
+    <term>
+        <label>Mechanical ventilation</label>
+        <def>(1) the active process of supplying or removing air to or from an indoor space by powered equipment such as motor-driven fans and blowers but not by devices such as wind-driven turbine ventilators and mechanically operated windows. (2) ventilation provided by mechanically powered equipment, such as motor-driven fans and blowers, but not by devices such as wind-driven turbine ventilators and mechanically operated windows.(source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+    <term>
+        <label>Air-handling unit or AHU</label>
+        <def>Assembly consisting of sections containing a fan or fans and other necessary equipment to perform one or more of the following functions: circulating, filtration, heating, cooling, heat recovery, humidifying, dehumidifying, and mixing of air. Is usually connected to an air-distribution system. (source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+    <term>
+        <label>Variable refrigerant flow or VRF system</label>
+        <def>An engineered direct-expansion (DX) multisplit system incorporating at least one variable capacity compressor distributing refrigerant through a piping network to multiple indoor fan-coil units, each capable of individual zone temperature control, through integral zone temperature control devices and common communications network. Variable refrigerant flow utilizes three or more steps of control on common, interconnecting piping. (source: ASHRAE Terminology, https://xp20.ashrae.org/terminology)</def>
+    </term>
+
+
+
+
+
+
+
+
+</XMLBit>
