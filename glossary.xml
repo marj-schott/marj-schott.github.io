@@ -1,8 +1,5 @@
 <XMLBit>
-    <term>
-        <label>A/E</label>
-        <def>Architectural/engineering</def>
-    </term>
+
     <term>
         <label>AIA</label>
         <def>American Institute of Architects</def>
@@ -42,10 +39,6 @@
     <term>
         <label>CHW</label>
         <def>Chilled water</def>
-    </term>
-    <term>
-        <label>c.i.</label>
-        <def>Continuous insulation</def>
     </term>
     <term>
         <label>Cx</label>
@@ -181,10 +174,7 @@
         <label>IPLV</label>
         <def>Integrated part load value</def>
     </term>
-    <term>
-        <label>kBtu/h</label>
-        <def>Thousands of British thermal units per hour</def>
-    </term>
+
     <term>
         <label>KE</label>
         <def>Advanced Energy Design Guide code for Kitchen Equipment</def>
@@ -323,10 +313,7 @@
         <label>wb</label>
         <def>Wet bulb</def>
     </term>
-    <term>
-        <label>w.c.</label>
-        <def>Water column</def>
-    </term>
+
     <term>
         <label>WH</label>
         <def>Advanced Energy Design Guide code for Service Water Heating</def>
@@ -409,7 +396,7 @@
     </term>
 
     <term>
-        <label>Design/build</label>
+        <label>Design build</label>
         <def>Design/build offers increased opportunities for integration of design with cost-effective construction methods, because the design and construction are carried out by the same entity. Here the challenge is to craft the RFP so that the critical project parameters are maintained throughout the course of design and construction. This typically requires hiring a design team to help develop the RFP, which adds overhead and complexity to the process. One of the challenges with the design/build RFP process is striking an appropriate balance between defining the critical parameters in sufficient detail and leaving room for possible innovations by the design/build team.</def>
     </term>
 
@@ -424,7 +411,7 @@
     </term>
 
     <term>
-        <label>Lease/lease back delivery method</label>
+        <label>Lease lease back delivery method</label>
         <def>Lease/lease back delivery method engages the builder sooner, reducing the level of public risk while allowing the builder to be chosen based on qualifications and not purely on price.</def>
     </term>
     <term>
