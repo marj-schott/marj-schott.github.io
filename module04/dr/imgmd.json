@@ -120,7 +120,7 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/monitoring.png": "img5.json",
 "dr/monitoring_verification_tx.png": "img5.json",
 "dr/occupant_success.png": "img5.json",
-"dr/occupant_tx.png": "img5.json",
+"dr/occupant_tx.png": "img6.json",
 "dr/oversite_tx.png": "img6.json",
 "dr/pbp_button.png": "img6.json",
 "dr/pbp_tx.png": "img6.json",
