@@ -99,7 +99,6 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/Text_Caption_34.png": "img6.json",
 "dr/Text_Caption_40.png": "img6.json",
 "dr/Text_Caption_41.png": "img6.json",
-"dr/Text_Caption_42.png": "img6.json",
 "dr/Text_Caption_43.png": "img6.json",
 "dr/Text_Caption_53.png": "img6.json",
 "dr/Text_Caption_54.png": "img6.json",
@@ -328,4 +327,5 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/site_energy_button.png": "img6.json",
 "dr/site_tx.png": "img6.json",
 "dr/source_energy_button.png": "img6.json",
+"dr/zero_energy_scale.png": "img6.json",
 "___":"___"};
