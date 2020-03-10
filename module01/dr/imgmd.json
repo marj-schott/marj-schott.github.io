@@ -90,6 +90,7 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/SubTitle_AutoShape_16.png": "img6.json",
 "dr/SubTitle_AutoShape_7.png": "img6.json",
 "dr/Success_Shape_1.png": "img6.json",
+"dr/Text_Caption_100.png": "img6.json",
 "dr/Text_Caption_18.png": "img6.json",
 "dr/Text_Caption_19.png": "img6.json",
 "dr/Text_Caption_20.png": "img6.json",
