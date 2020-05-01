@@ -1,4 +1,5 @@
 cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={ 
+"dr/1033686_851_371.png": "img1.json",
 "dr/155882_298_374.png": "img1.json",
 "dr/162424.svg": "img1.json",
 "dr/19238.svg": "img1.json",
@@ -86,7 +87,6 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/802077_1030_600.png": "img17.json",
 "dr/802106_1030_600.png": "img18.json",
 "dr/802140_1025_619.png": "img18.json",
-"dr/917551_731_248.png": "img18.json",
 "dr/950567.svg": "img18.json",
 "dr/Building_the_team_1435.png": "img18.json",
 "dr/Creating_collab_mindset_1436.png": "img18.json",
@@ -271,6 +271,7 @@ cp.imagesJSONCacheForLocal=true;cp.imageToJSONPathMap={
 "dr/SmartShape_1473.png": "img19.json",
 "dr/SmartShape_1475.png": "img19.json",
 "dr/SmartShape_1476.png": "img19.json",
+"dr/SmartShape_1477.png": "img19.json",
 "dr/SmartShape_598.png": "img19.json",
 "dr/SmartShape_599.png": "img19.json",
 "dr/SmartShape_66.png": "img19.json",
