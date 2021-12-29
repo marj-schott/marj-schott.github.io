@@ -25,8 +25,8 @@
       neighboursSelectionMode: primitives.NeighboursSelectionMode.ParentsChildrenSiblingsAndSpouses,
       groupByType: primitives.GroupByType.Children,
       alignBylevels: true,
-      hideGrandParentsConnectors: false,
-      enableMatrixLayout: true,
+      hideGrandParentsConnectors: true,
+      enableMatrixLayout: false,
       minimumMatrixSize: 0,
       maximumColumnsInMatrix: 6,
 
@@ -74,7 +74,7 @@
       groupTitleFontStyle: "normal",
 
       /* level title options */
-      addLevelAnnotations: true,
+      addLevelAnnotations: false,
       levelTitlePlacementType: primitives.AdviserPlacementType.Left,
       levelTitlePanelSize: 24,
       levelTitlePlaceInside: false,
@@ -108,7 +108,7 @@
       normalItemsInterval: 12,
       dotItemsInterval: 12,
       lineItemsInterval: 20,
-      cousinsIntervalMultiplier: 1,
+      cousinsIntervalMultiplier: 0,
 
       /* Connectors */
       arrowsDirection: primitives.GroupByType.Parents,
@@ -183,7 +183,7 @@
         defaultTemplateName: "UnitTemplate",
         defaultCalloutTemplateName: "CalloutUnitTemplate",
         onItemRender: onTemplateRender,
-        arrowsDirection: primitives.GroupByType.Children,
+        arrowsDirection: primitives.GroupByType.Parents
       })
 
       primitives.mergeObjects(options, {

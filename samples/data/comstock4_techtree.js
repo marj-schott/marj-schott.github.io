@@ -9,7 +9,6 @@ var famdata = [
   { id: 0, parents: [], title: "simulation_year", itemTitleColor: "#ddd", groupTitle: "tsv"},
   { id: 3, parents: [], title: "climate_zone", itemTitleColor: "#ddd", groupTitle: "tsv" },
   { id: 1, parents: [], title: "rotation", itemTitleColor: "#ddd", groupTitle: "tsv"},
-  { id: 155, parents: []},
 
 
   { id: 4, parents: [3], title: "county_id", itemTitleColor: "#ddd", groupTitle: "tsv"},
@@ -29,20 +28,20 @@ var famdata = [
   { id: 173, parents: [10,5], title: "ltg_sch_weekend_base_peak_ratio", itemTitleColor: "#ddd", groupTitle: "tsv"},
 
 
-  { id: 11, parents: [3,5], title: "number_stories", itemTitleColor: "#ddd", groupTitle: "tsv"},
+  { id: 11, parents: [4,5], title: "number_stories", itemTitleColor: "#ddd", groupTitle: "tsv"},
 
   { id: 12, parents: [4,5], title: "year_built", itemTitleColor: "#ddd", groupTitle: "tsv"},
 
   { id: 174, parents: [12], title: "year_bin_of_original_building_construction", itemTitleColor: "#ddd",  groupTitle: "tsv"},
 
-  { id: 175, parents: [12,0], title: "year_bin_of_last_exterior_lighting_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
-  { id: 176, parents: [12,0], title: "year_bin_of_last_hvac_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
-  { id: 177, parents: [12,0], title: "year_bin_of_last_interior_equipment_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
-  { id: 178, parents: [12,0], title: "year_bin_of_last_interior_lighting_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
-  { id: 179, parents: [12,0], title: "year_bin_of_last_roof_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
-  { id: 180, parents: [12,0], title: "year_bin_of_last_service_water_heating_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
-  { id: 181, parents: [12,0], title: "year_bin_of_last_walls_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
-  { id: 182, parents: [12,0], title: "year_bin_of_last_windows_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
+  { id: 175, parents: [12], title: "year_bin_of_last_exterior_lighting_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
+  { id: 176, parents: [12], title: "year_bin_of_last_hvac_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
+  { id: 177, parents: [12], title: "year_bin_of_last_interior_equipment_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
+  { id: 178, parents: [12], title: "year_bin_of_last_interior_lighting_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
+  { id: 179, parents: [12], title: "year_bin_of_last_roof_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
+  { id: 180, parents: [12], title: "year_bin_of_last_service_water_heating_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
+  { id: 181, parents: [12], title: "year_bin_of_last_walls_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
+  { id: 182, parents: [12], title: "year_bin_of_last_windows_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
 
   { id: 13, parents: [3,5], title: "rentable_area", itemTitleColor: "#ddd", groupTitle: "tsv"},
 
@@ -56,7 +55,7 @@ var famdata = [
   { id: 20, parents: [19], title: "weekend_duration", itemTitleColor: "#ddd", groupTitle: "tsv"},
   { id: 21, parents: [5], title: "hvac_tst_htg_sp_f", itemTitleColor: "#ddd", groupTitle: "tsv"},
   { id: 22, parents: [5], title: "hvac_tst_clg_sp_f", itemTitleColor: "#ddd", groupTitle: "tsv"},
-  { id: 25, parents: [5], title: "hvac_night_variability", itemTitleColor: "#ddd", groupTitle: "tsv"},
+  { id: 25, parents: [15], title: "hvac_night_variability", itemTitleColor: "#ddd", groupTitle: "tsv"},
   
   { id: 23, parents: [6], title: "region", itemTitleColor: "#ddd", groupTitle: "tsv"},
 
@@ -173,13 +172,14 @@ var famdata = [
  { id: 42, parents: [23], title: "region", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 43, parents: [13], title: "rentable_area", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 44, parents: [1], title: "rotation", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
+
  { id: 45, parents: [16], title: "service_water_heating_fuel", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 46, parents: [6], title: "state_id", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 47, parents: [18], title: "weekday_duration", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 48, parents: [17], title: "weekday_start_time", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 49, parents: [20], title: "weekend_duration", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 50, parents: [19], title: "weekend_start_time", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
- { id: 51, parents: [32,43], title: "window_wall_ratio", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
+ { id: 51, parents: [201], title: "window_wall_ratio", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
 
  { id: 60, parents: [174], title: "year_bin_of_original_building_construction", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
 
