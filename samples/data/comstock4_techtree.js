@@ -103,9 +103,9 @@ var famdata = [
 
  //   bldg stock
  
-  { id: 27, parents: [10], title: "ltg_sch_weekday_base_peak_ratio", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv", position: 2 },
-  { id: 28, parents: [172], title: "ltg_sch_weekend_base_peak_ratio", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
-  { id: 120, parents: [173], title: "ltg_sch_base_peak_ratio_type", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
+  { id: 27, parents: [172], title: "ltg_sch_weekday_base_peak_ratio", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv", position: 2 },
+  { id: 28, parents: [173], title: "ltg_sch_weekend_base_peak_ratio", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
+  { id: 120, parents: [10], title: "ltg_sch_base_peak_ratio_type", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
 
  { id: 24, parents: [156], title: "energy_code_compliance_during_original_building_construction", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
  { id: 110, parents: [157], title: "energy_code_compliance_exterior_lighting", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
@@ -162,7 +162,7 @@ var famdata = [
 
 
  { id: 121, parents: [15], title: "hvac_system_type", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
- { id: 122, parents: [21], title: "hvac_tst_clg_delta_f", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
+ { id: 122, parents: [8], title: "hvac_tst_clg_delta_f", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 123, parents: [22], title: "hvac_tst_clg_sp_f", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 124, parents: [7], title: "hvac_tst_htg_delta_f", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 125, parents: [21], title: "hvac_tst_htg_sp_f", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
