@@ -31,9 +31,10 @@ var famdata = [
 
   { id: 11, parents: [3,5], title: "number_stories", itemTitleColor: "#ddd", groupTitle: "tsv"},
 
-  { id: 12, parents: [3,5], title: "year_built", itemTitleColor: "#ddd", groupTitle: "tsv"},
+  { id: 12, parents: [4,5], title: "year_built", itemTitleColor: "#ddd", groupTitle: "tsv"},
 
   { id: 174, parents: [12], title: "year_bin_of_original_building_construction", itemTitleColor: "#ddd",  groupTitle: "tsv"},
+
   { id: 175, parents: [12,0], title: "year_bin_of_last_exterior_lighting_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
   { id: 176, parents: [12,0], title: "year_bin_of_last_hvac_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
   { id: 177, parents: [12,0], title: "year_bin_of_last_interior_equipment_replacement", itemTitleColor: "#ddd",  groupTitle: "tsv"},
@@ -70,22 +71,22 @@ var famdata = [
  { id: 163, parents: [6], title: "energy_code_compliance_walls", itemTitleColor: "#ddd", groupTitle: "tsv"},
  { id: 164, parents: [6], title: "energy_code_compliance_windows", itemTitleColor: "#ddd", groupTitle: "tsv"},
 
-  { id: 152, parents: [155], title: "building_subtype", itemTitleColor: "#ddd", groupTitle: "tsv", isVisible: true},
-  { id: 153, parents: [155], title: "building_shape", itemTitleColor: "#ddd", groupTitle: "tsv", isVisible: true},
+  { id: 152, parents: [3], title: "building_subtype", itemTitleColor: "#ddd", groupTitle: "tsv", isVisible: true},
+  { id: 153, parents: [3], title: "building_shape", itemTitleColor: "#ddd", groupTitle: "tsv", isVisible: true},
   { id: 154, parents: [153], title: "aspect_ratio", itemTitleColor: "#ddd", groupTitle: "tsv"},
   
 
 
  { id: 190, parents: [174], title: "energy_code_in_force_during_original_building_construction", itemTitleColor: "#ddd", groupTitle: "tsv"},
 
- { id: 191, parents: [175,157], title: "energy_code_in_force_during_last_exterior_lighting_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
- { id: 192, parents: [176,158], title: "energy_code_in_force_during_last_hvac_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
- { id: 193, parents: [177,159], title: "energy_code_in_force_during_last_interior_equipment_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
- { id: 194, parents: [178,160], title: "energy_code_in_force_during_last_interior_lighting_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
- { id: 195, parents: [179,161], title: "energy_code_in_force_during_last_roof_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
- { id: 196, parents: [180,162], title: "energy_code_in_force_during_last_service_water_heating_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
- { id: 197, parents: [181,163], title: "energy_code_in_force_during_last_walls_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
- { id: 198, parents: [182,164], title: "energy_code_in_force_during_last_windows_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
+ { id: 191, parents: [175,6], title: "energy_code_in_force_during_last_exterior_lighting_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
+ { id: 192, parents: [176,6], title: "energy_code_in_force_during_last_hvac_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
+ { id: 193, parents: [177,6], title: "energy_code_in_force_during_last_interior_equipment_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
+ { id: 194, parents: [178,6], title: "energy_code_in_force_during_last_interior_lighting_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
+ { id: 195, parents: [179,6], title: "energy_code_in_force_during_last_roof_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
+ { id: 196, parents: [180,6], title: "energy_code_in_force_during_last_service_water_heating_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
+ { id: 197, parents: [181,6], title: "energy_code_in_force_during_last_walls_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
+ { id: 198, parents: [182,6], title: "energy_code_in_force_during_last_windows_replacement", itemTitleColor: "#ddd", groupTitle: "tsv"},
 
 
  { id: 200, parents: [190,156], title: "energy_code_followed_during_original_building_construction", itemTitleColor: "#ddd", groupTitle: "tsv"},
@@ -121,16 +122,16 @@ var famdata = [
  { id: 130, parents: [200], title: "energy_code_followed_during_original_building_construction", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
 
 
- { id: 32, parents: [190], title: "energy_code_in_force_during_original_building_construction", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
+ { id: 32, parents: [60, 24], title: "energy_code_in_force_during_original_building_construction", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
 
- { id: 140, parents: [191], title: "energy_code_in_force_during_last_exterior_lighting_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
- { id: 141, parents: [192], title: "energy_code_in_force_during_last_hvac_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
- { id: 142, parents: [193], title: "energy_code_in_force_during_last_interior_equipment_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
- { id: 143, parents: [194], title: "energy_code_in_force_during_last_interior_lighting_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
- { id: 144, parents: [195], title: "energy_code_in_force_during_last_roof_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
- { id: 145, parents: [196], title: "energy_code_in_force_during_last_service_water_heating_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
- { id: 146, parents: [197], title: "energy_code_in_force_during_last_walls_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
- { id: 147, parents: [198], title: "energy_code_in_force_during_last_windows_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
+ { id: 140, parents: [52,110,175], title: "energy_code_in_force_during_last_exterior_lighting_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
+ { id: 141, parents: [53,111,176], title: "energy_code_in_force_during_last_hvac_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
+ { id: 142, parents: [54,112,177], title: "energy_code_in_force_during_last_interior_equipment_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
+ { id: 143, parents: [55,113,178], title: "energy_code_in_force_during_last_interior_lighting_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
+ { id: 144, parents: [56,114,179], title: "energy_code_in_force_during_last_roof_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
+ { id: 145, parents: [57,115,180], title: "energy_code_in_force_during_last_service_water_heating_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
+ { id: 146, parents: [58,116,181], title: "energy_code_in_force_during_last_walls_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
+ { id: 147, parents: [59,117,182], title: "energy_code_in_force_during_last_windows_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
 
 
  { id: 33, parents: [202], title: "energy_code_followed_during_last_exterior_lighting_replacement", itemTitleColor: "#a7e3f4", groupTitle: "buildstock.csv"},
@@ -181,6 +182,7 @@ var famdata = [
  { id: 51, parents: [32,43], title: "window_wall_ratio", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
 
  { id: 60, parents: [174], title: "year_bin_of_original_building_construction", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
+
  { id: 52, parents: [175], title: "year_bin_of_last_exterior_lighting_replacement", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 53, parents: [176], title: "year_bin_of_last_hvac_replacement", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
  { id: 54, parents: [177], title: "year_bin_of_last_interior_equipment_replacement", itemTitleColor: "#a7e3f4",  groupTitle: "buildstock.csv"},
@@ -202,7 +204,7 @@ var famdata = [
  { id: 64, parents: [126], title: "add_hvac_nighttime_operation_variability", itemTitleColor: "#d1f7cd", groupTitle: "measure"},
  { id: 65, parents: [122,123,124,125], title: "add_thermostat_setpoint_variability", itemTitleColor: "#d1f7cd", groupTitle: "measure",placementType: primitives.AdviserPlacementType.Right},
 
- { id: 66, parents: [62,86,87], title: "ChangeBuildingLocation", itemTitleColor: "#d1f7cd", groupTitle: "measure",placementType: primitives.AdviserPlacementType.Right},
+ { id: 66, parents: [62,87], title: "ChangeBuildingLocation", itemTitleColor: "#d1f7cd", groupTitle: "measure",placementType: primitives.AdviserPlacementType.Right},
 
  { id: 67, parents: [33,36,43,44,51,90,91,92,93,94,95,96,35,43,44,51,83,85,86,88,130,202], title: "create_bar_from_building_type_ratios", itemTitleColor: "#d1f7cd", groupTitle: "measure",placementType: primitives.AdviserPlacementType.Right},
  { id: 68, parents: [33,45,47,48,49,50,90,91,92,93,94,95,96,35,36,45,47,48,49,50,86,121,130,], title: "create_typical_building_from_model", itemTitleColor: "#d1f7cd", groupTitle: "measure",placementType: primitives.AdviserPlacementType.Right},
