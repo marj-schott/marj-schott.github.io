@@ -17,6 +17,12 @@
         label: "Organizational Chart",
         items: [
           {
+            label: "Comstock 3 Tech Tree Chart",
+            frameworks: {
+              javascript: "samples/javascript.controls/ComStock3_DemoTechTree.html"
+            }
+          },
+          {
             label: "Large Hierarchy",
             frameworks: {
               javascript: "samples/javascript.controls/DemoLargeHierarchy.html",
@@ -30,42 +36,6 @@
             }
           },
           {
-            label: "My Test",
-            frameworks: {
-              javascript: "samples/javascript.controls/DemoMine.html"
-            }
-          },
-          {
-            label: "My Test2",
-            frameworks: {
-              javascript: "samples/javascript.controls/DemoMine2.html"
-            }
-          },
-          {
-            label: "ComStock 1",
-            frameworks: {
-              javascript: "samples/javascript.controls/comstock1.html"
-            }
-          },
-          {
-            label: "ComStock 2",
-            frameworks: {
-              javascript: "samples/javascript.controls/comstock2.html"
-            }
-          },
-          {
-            label: "Comstock 3 Tech Tree Chart",
-            frameworks: {
-              javascript: "samples/javascript.controls/ComStock3_DemoTechTree.html"
-            }
-          },
-          {
-            label: "Patents",
-            frameworks: {
-              javascript: "samples/javascript.controls/DemoPatents.html"
-            }
-          },
-          {
             label: "Matrix Layout",
             frameworks: {
               javascript: "samples/javascript.controls/DemoOrgDiagramMatrixLayout.html",
@@ -76,6 +46,12 @@
             label: "Vertical Layout",
             frameworks: {
               javascript: "samples/javascript.controls/DemoVerticalLayout.html"
+            }
+          },
+          {
+            label: "Cross-branch alignment",
+            frameworks: {
+              javascript: "samples/javascript.controls/DemoCrossBranchAlignment.html"
             }
           },
           {
@@ -318,6 +294,12 @@
             }
           },
           {
+            label: "Cross-branch alignment",
+            frameworks: {
+              javascript: "samples/javascript.controls/CaseCrossBranchAlignment.html"
+            }
+          },
+          {
             label: "Children & Assistants Levels",
             frameworks: {
               javascript: "samples/javascript.controls/CaseChildrenAndAssistantsLevelOffset.html"
@@ -384,7 +366,7 @@
             }
           },
           {
-            label: "Skip levels",
+            label: "Skip levels with invisible items",
             frameworks: {
               javascript: "samples/javascript.controls/CaseSkippedLevels.html"
             }
@@ -559,8 +541,7 @@
           {
             label: "Level Annotation - Custom Templates",
             frameworks: {
-              javascript: "samples/javascript.controls/CaseLevelAnnotationTemplate.html",
-              pdfkit: "samples/pdfkit.plugins/LevelAnnotationTemplate.html"
+              javascript: "samples/javascript.controls/CaseLevelAnnotationTemplate.html"
             }
           },
           {
@@ -665,7 +646,7 @@
         preferredFramework = updateFrameworks(activeFile.frameworks, preferredFramework);
         Update();
       });
-      
+
 
       var frameworksElement =  document.getElementById("frameworks");
       frameworksElement.addEventListener("click", function(event) {
@@ -728,7 +709,7 @@
           }
         }
       }
-      
+
       var frameworksElement =  document.getElementById("frameworks");
       frameworksElement.innerHTML = "";
       for (var index = 0; index < frameworksOrder.length; index += 1) {
